@@ -1,6 +1,6 @@
 # Prateek Singh Bisht
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/bishtprateek270-hue&color=brightgreen&style=flat-square&label=Profile+Views)
+
 
 > AI & Machine Learning Student — Pre-final Year Engineering Student focused on building a strong foundation in AI/ML and computer science fundamentals.
 
