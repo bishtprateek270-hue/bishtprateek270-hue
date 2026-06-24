@@ -24,7 +24,7 @@ I am an Artificial Intelligence and Machine Learning student focused on building
 ---
 
 ### 🔮 What I'm Up To
-*   🔭 **Current Project:** Building a specialized web platform integrated with 3D components and immersive application workflows.
+*   🔭 **Current Project:** Building an app to navigate the people who can't see or  lost their ability to see.
 *   🧠 **Focus Area:** Deepening my command over Data Structures & Algorithms (DSA) and advanced machine learning implementations.
 *   🤝 **Collaboration:** Enthusiastic about participating in team hackathons, building core software tools, and open-source contributions.
 
