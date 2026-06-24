@@ -35,4 +35,9 @@ I am an Artificial Intelligence and Machine Learning student focused on building
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishtprateek270@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishtprateek270-hue)
 
+
+## 🌐 Portfolio
+
+[Visit My Portfolio](https://bishtprateek270-hue.github.io/Portfolio/)
+
 <p align="center">⭐️ From <i>"Hello World"</i> to deploying intricate projects — always building, always learning. ⭐️</p>
