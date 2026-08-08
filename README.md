@@ -1,89 +1,207 @@
-# Hi there, I'm Prateek Singh Bisht 👋
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh%20Bisht&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+</p>
 
-### 🤖 AI & ML Engineering Student | Software Developer
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Shipping+4%2B+Production+Projects+%F0%9F%9A%80;LLM+%7C+RAG+%7C+Vector+Search+%7C+ML+Pipelines+%F0%9F%A7%A0;3rd+Year+B.Tech+AI+%26+ML+Student+%F0%9F%8E%93" alt="Typing SVG" /></a>
+</p>
+
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bishtprateek270-hue&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/prateek-singh-bisht-4868742b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:bishtprateek270@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://bishtprateek270-hue.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 📍 **Panipat, Haryana, India**
 
-3rd-year B.Tech student specializing in **Artificial Intelligence & Machine Learning** at Panipat Institute of Engineering & Technology (PIET). Experienced in building end-to-end AI applications, designing ML pipelines, LLM/RAG integrations, and engineering robust, low-latency web platforms. Proven track record in national hackathons and shipping **4+ live production projects**.
+🎓 3rd-year **B.Tech in AI & Machine Learning** at **PIET**
+
+🔬 Experienced in building **end-to-end AI applications**, designing **ML pipelines**, **LLM/RAG integrations**, and engineering robust, low-latency web platforms.
+
+🏆 Proven track record in **national hackathons** and shipping **4+ live production projects**.
+
+- 🔭 Currently working on **AI-powered career tools & RAG platforms**
+- 🧠 Deepening expertise in **LLM Integration, Vector Search & System Architecture**
+- 🤝 Open to **hackathons, open-source contributions & collaborations**
+- ⚡ Fun fact: I turn **complex problems into clean, functional code**
+
+<br clear="right"/>
 
 ---
 
-### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://bishtprateek270-hue.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-singh-bisht-4868742b9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishtprateek270@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishtprateek270-hue)
+## 🛠️ Tech Stack & Tools
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript,html,css&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,firebase,streamlit&theme=dark" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,docker,git,github,vscode&theme=dark" alt="Tools" />
+</p>
 
-### 💼 Work Experience
-**Data Science & Machine Learning Intern** | *The Brainhub*  
-*(July 2024 – August 2024 | 45 Days)*  
-* Gained hands-on experience with core machine learning algorithms, model evaluation, and predictive analytics.
-* Designed end-to-end data cleaning, preprocessing, and feature engineering pipelines for real-world datasets.
-* Collaborated with cross-functional team members to solve complex data science problem statements under tight timelines.
-
----
-
-### 🚀 Featured Projects (All in Production)
-
-#### 🤖 AI Resume Analyzer & ATS Optimizer
-* **Tech Stack:** Python, Streamlit, Gemini 2.5 Flash, PostgreSQL, ReportLab
-* Built an intelligent career tool parsing PDF resumes & evaluating ATS match scores against target job descriptions.
-* Integrated Gemini 2.5 Flash for qualitative feedback, skill gap analysis, recommended projects, and PDF report export.
-
-#### 🔍 RAGMind - Document Search & Study Platform
-* **Tech Stack:** Next.js 16, FastAPI, Python, TypeScript, SQLite, Vector Search
-* Engineered an enterprise RAG platform supporting multi-format document indexing (`.pdf`, `.docx`, `.pptx`, `.md`).
-* Implemented interactive source-cited Q&A chat with exact page citations, AI flashcards, quizzes, and summary export.
-
-#### 📚 ShikshaSetu - AI Educational Platform
-* **Tech Stack:** Next.js, TypeScript, Firebase, Gemini Pro / Vision API
-* Built an AI EdTech platform featuring automated study notes generation, PDF-to-quiz conversion, & adaptive doubt solving.
-
-#### 💳 SimplePay - Containerized Payment Dashboard
-* **Tech Stack:** React SPA, Flask REST API, MongoDB, Docker
-* Developed a full-stack containerized 3-tier payment dashboard with MongoDB storage and Docker containerization.
-
----
-
-### 🛠️ Technical Skills
+<details>
+<summary>📋 <b>Detailed Skill Breakdown</b> (Click to expand)</summary>
+<br/>
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI & Machine Learning** | ML Fundamentals, LLM Integration (Gemini API), RAG, Vector Search, Data Science, NLP |
-| **Frameworks & Web** | ![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) REST APIs, HTML5/CSS3 |
-| **Databases & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Jupyter |
-| **Core Engineering** | System Architecture, API & Web Development, Data Structures & Algorithms (DSA), OOP, Analytical Thinking |
+| **AI & ML** | `ML Fundamentals` · `LLM Integration (Gemini API)` · `RAG` · `Vector Search` · `Data Science` · `NLP` |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Databases & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Core** | `System Architecture` · `API Design` · `DSA` · `OOP` · `Analytical Thinking` |
+
+</details>
 
 ---
 
-### 🎓 Education & Certifications
+## 💼 Work Experience
 
-* 🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
-  *Panipat Institute of Engineering & Technology (PIET)* | *(2023 – 2028 Expected)*  
-  * **Academic Performance:** Sem 1: 7.95 | Sem 2: 8.21 | Sem 3: 7.30 SGPA
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://img.shields.io/badge/🧪-Intern-6c63ff?style=for-the-badge" alt="Intern" />
+</td>
+<td>
 
-* 📜 **C Programming Certification** | *(Dec 2024)*  
-  *Spoken Tutorial Project, IIT Bombay* (Score: **85%**)
+### Data Science & Machine Learning Intern
+**The Brainhub** · _July 2024 – August 2024 (45 Days)_
 
----
+- ⚙️ Hands-on experience with core ML algorithms, model evaluation & predictive analytics
+- 📊 Designed end-to-end data cleaning, preprocessing & feature engineering pipelines
+- 🤝 Collaborated with cross-functional teams to solve complex data science problems under tight timelines
 
-### 🏆 Hackathons & Achievements
-
-* 🏅 **Smart India Hackathon (SIH) 2025:** Internal Finalist at college level (PIET).
-* 🏅 **COER Manthan '25:** Participated in national-level hackathon at COER University.
-* 🏅 **Hack KRMU 5.0:** Competed in rapid software development hackathon at K.R. Mangalam University (2026).
-* 🏅 **LogoLocha 2025:** Participated in design competition showcasing visual identity, vector styling & branding (SKLZ TECT).
-
----
-
-### 📈 GitHub Stats
-
-| My Stats | Most Used Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=bishtprateek270-hue&show_icons=true&theme=radical&hide_border=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtprateek270-hue&layout=compact&theme=radical&hide_border=true" width="400px"/> |
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">⭐️ From <i>"Hello World"</i> to deploying intricate projects — always building, always learning. ⭐️</p>
+## 🚀 Featured Projects — All in Production
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Analyzer & ATS Optimizer
+> **Python · Streamlit · Gemini 2.5 Flash · PostgreSQL · ReportLab**
+
+Intelligent career tool parsing PDF resumes & evaluating ATS match scores against target job descriptions. Integrates Gemini 2.5 Flash for qualitative feedback, skill gap analysis, recommended projects & PDF report export.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 RAGMind — Document Search Platform
+> **Next.js 16 · FastAPI · Python · TypeScript · SQLite · Vector Search**
+
+Enterprise RAG platform supporting multi-format document indexing (`.pdf`, `.docx`, `.pptx`, `.md`). Interactive source-cited Q&A chat with exact page citations, AI flashcards, quizzes & summary export.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 ShikshaSetu — AI EdTech Platform
+> **Next.js · TypeScript · Firebase · Gemini Pro / Vision API**
+
+AI-powered educational platform featuring automated study notes generation, PDF-to-quiz conversion & adaptive doubt solving engine.
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 SimplePay — Payment Dashboard
+> **React SPA · Flask REST API · MongoDB · Docker**
+
+Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask REST API backend, MongoDB storage & Docker containerization.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishtprateek270-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=6c63ff" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishtprateek270-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=00d4ff&currStreakLabel=6c63ff" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtprateek270-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" width="40%" alt="Top Languages" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishtprateek270-hue&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=00d4ff&point=ffffff&area=true&area_color=6c63ff" width="95%" alt="Activity Graph" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bishtprateek270-hue&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="60" align="center">🎓</td>
+<td>
+  <strong>B.Tech in Artificial Intelligence & Machine Learning</strong><br/>
+  <em>Panipat Institute of Engineering & Technology (PIET)</em> · 2023 – 2028<br/>
+  <img src="https://img.shields.io/badge/Sem_1-7.95_SGPA-6c63ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sem_2-8.21_SGPA-00d4ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sem_3-7.30_SGPA-ff6b9d?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td width="60" align="center">📜</td>
+<td>
+  <strong>C Programming Certification</strong> · <em>Spoken Tutorial Project, IIT Bombay</em> · Dec 2024<br/>
+  <img src="https://img.shields.io/badge/Score-85%25-brightgreen?style=flat-square" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Hackathons & Achievements
+
+| | Event | Details |
+|:---:|:---|:---|
+| 🏅 | **Smart India Hackathon (SIH) 2025** | Internal Finalist at college level (PIET) |
+| 🏅 | **COER Manthan '25** | National-level hackathon at COER University |
+| 🏅 | **Hack KRMU 5.0** | Rapid software dev hackathon at K.R. Mangalam University (2026) |
+| 🏅 | **LogoLocha 2025** | Design competition — visual identity & branding (SKLZ TECT) |
+
+---
+
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<!-- Animated Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=%E2%AD%90+From+%22Hello+World%22+to+deploying+intricate+projects+%E2%AD%90;Always+building%2C+always+learning.+%F0%9F%9A%80" alt="Footer Typing" />
+</p>
