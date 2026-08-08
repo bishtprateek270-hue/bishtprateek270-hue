@@ -1,7 +1,6 @@
-<!-- Animated Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh%20Bisht&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
-</p>
+<!-- Header Heading & Typing Animation -->
+<h1 align="center">Hi there, I'm Prateek Singh Bisht 👋</h1>
+<h3 align="center">🤖 AI & ML Engineering Student | Software Developer</h3>
 
 <!-- Animated Typing SVG -->
 <p align="center">
@@ -55,10 +54,10 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI & ML** | `ML Fundamentals` · `LLM Integration (Gemini API)` · `RAG` · `Vector Search` · `Data Science` · `NLP` |
+| **AI & ML** | ![ML Fundamentals](https://img.shields.io/badge/ML_Fundamentals-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![LLM Integration](https://img.shields.io/badge/LLM_Integration_(Gemini)-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-008080?style=flat-square) ![Vector Search](https://img.shields.io/badge/Vector_Search-00D4FF?style=flat-square&logo=pypy&logoColor=black) ![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat-square) |
 | **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 | **Databases & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Core** | `System Architecture` · `API Design` · `DSA` · `OOP` · `Analytical Thinking` |
+| **Core Engineering** | ![System Architecture](https://img.shields.io/badge/System_Architecture-4A154B?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-0055FF?style=flat-square&logo=postman&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-E34F26?style=flat-square) ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-6C63FF?style=flat-square) |
 
 ---
 
@@ -127,15 +126,25 @@ Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Heatmap
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishtprateek270-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=00d4ff&currStreakLabel=6c63ff" width="80%" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- Contribution Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishtprateek270-hue&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=00d4ff&point=ffffff&area=true&area_color=6c63ff" width="95%" alt="Activity Graph" />
+</p>
+
+<!-- Snake Contribution Animation -->
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -174,11 +183,6 @@ Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask
 | 🏅 | **LogoLocha 2025** | Design competition — visual identity & branding (SKLZ TECT) |
 
 ---
-
-<!-- Animated Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=%E2%AD%90+From+%22Hello+World%22+to+deploying+intricate+projects+%E2%AD%90;Always+building%2C+always+learning.+%F0%9F%9A%80" alt="Footer Typing" />
