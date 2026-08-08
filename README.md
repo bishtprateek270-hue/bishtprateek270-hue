@@ -50,9 +50,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,docker,git,github,vscode&theme=dark" alt="Tools" />
 </p>
 
-<details>
-<summary>📋 <b>Detailed Skill Breakdown</b> (Click to expand)</summary>
-<br/>
+### 📋 Detailed Skill Breakdown
 
 | Category | Technologies |
 | :--- | :--- |
@@ -61,8 +59,6 @@
 | **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 | **Databases & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Core** | `System Architecture` · `API Design` · `DSA` · `OOP` · `Analytical Thinking` |
-
-</details>
 
 ---
 
@@ -134,23 +130,12 @@ Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishtprateek270-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=6c63ff" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishtprateek270-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=00d4ff&currStreakLabel=6c63ff" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtprateek270-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishtprateek270-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=00d4ff&currStreakLabel=6c63ff" width="80%" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishtprateek270-hue&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=00d4ff&point=ffffff&area=true&area_color=6c63ff" width="95%" alt="Activity Graph" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishtprateek270-hue&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -189,13 +174,6 @@ Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask
 | 🏅 | **LogoLocha 2025** | Design competition — visual identity & branding (SKLZ TECT) |
 
 ---
-
-<!-- Snake Contribution Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" width="100%" />
-</picture>
 
 <!-- Animated Footer Wave -->
 <p align="center">
