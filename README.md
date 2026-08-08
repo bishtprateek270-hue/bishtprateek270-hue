@@ -141,9 +141,9 @@ Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/github-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
