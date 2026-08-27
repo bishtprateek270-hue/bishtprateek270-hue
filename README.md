@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Shipping+4%2B+Production+Projects+%F0%9F%9A%80;LLM+%7C+RAG+%7C+Vector+Search+%7C+ML+Pipelines+%F0%9F%A7%A0;3rd+Year+B.Tech+AI+%26+ML+Student+%F0%9F%8E%93" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Shipping+5%2B+Production+Projects+%F0%9F%9A%80;LLM+%7C+RAG+%7C+Vector+Search+%7C+ML+Pipelines+%F0%9F%A7%A0;3rd+Year+B.Tech+AI+%26+ML+Student+%F0%9F%8E%93" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Views & Social Badges -->
@@ -30,7 +30,7 @@
 
 🔬 Experienced in building **end-to-end AI applications**, designing **ML pipelines**, **LLM/RAG integrations**, and engineering robust, low-latency web platforms.
 
-🏆 Proven track record in **national hackathons** and shipping **4+ live production projects**.
+🏆 Proven track record in **national hackathons** and shipping **5+ live production projects**.
 
 - 🔭 Currently working on **AI-powered career tools & RAG platforms**
 - 🧠 Deepening expertise in **LLM Integration, Vector Search & System Architecture**
@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript,html,css&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,firebase,streamlit&theme=dark" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,fastapi,flask,firebase,streamlit&theme=dark" alt="Frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,docker,git,github,vscode&theme=dark" alt="Tools" />
 </p>
 
@@ -89,12 +89,24 @@
 <tr>
 <td width="50%" valign="top">
 
+### ✨ [KarigarAI](https://karigar-ai-amber.vercel.app/) — Artisan AI Commerce Platform
+> **React 19 · FastAPI · Python · Gemini Vision · WhatsApp Commerce**
+
+Full-stack AI marketplace empowering local Indian artisans with vision AI catalog creation, labor-based fair pricing recommendations, cultural story engine & direct WhatsApp ordering.
+
+🔗 **[Live Demo](https://karigar-ai-amber.vercel.app/)** &nbsp;|&nbsp; 🐙 **[GitHub Repo](https://github.com/bishtprateek270-hue/karigarAI)**
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 AI Resume Analyzer & ATS Optimizer
 > **Python · Streamlit · Gemini 2.5 Flash · PostgreSQL · ReportLab**
 
 Intelligent career tool parsing PDF resumes & evaluating ATS match scores against target job descriptions. Integrates Gemini 2.5 Flash for qualitative feedback, skill gap analysis, recommended projects & PDF report export.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 RAGMind — Document Search Platform
@@ -103,8 +115,6 @@ Intelligent career tool parsing PDF resumes & evaluating ATS match scores agains
 Enterprise RAG platform supporting multi-format document indexing (`.pdf`, `.docx`, `.pptx`, `.md`). Interactive source-cited Q&A chat with exact page citations, AI flashcards, quizzes & summary export.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 ShikshaSetu — AI EdTech Platform
@@ -113,12 +123,17 @@ Enterprise RAG platform supporting multi-format document indexing (`.pdf`, `.doc
 AI-powered educational platform featuring automated study notes generation, PDF-to-quiz conversion & adaptive doubt solving engine.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💳 SimplePay — Payment Dashboard
 > **React SPA · Flask REST API · MongoDB · Docker**
 
 Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask REST API backend, MongoDB storage & Docker containerization.
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
