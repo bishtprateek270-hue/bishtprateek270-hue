@@ -99,38 +99,46 @@ Full-stack AI marketplace empowering local Indian artisans with vision AI catalo
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Analyzer & ATS Optimizer
+### 🤖 [AI Resume Analyzer](https://resume-analyzer-nejevwpy2bcvrvuag9schr.streamlit.app/) & ATS Optimizer
 > **Python · Streamlit · Gemini 2.5 Flash · PostgreSQL · ReportLab**
 
 Intelligent career tool parsing PDF resumes & evaluating ATS match scores against target job descriptions. Integrates Gemini 2.5 Flash for qualitative feedback, skill gap analysis, recommended projects & PDF report export.
 
+🔗 **[Live Demo](https://resume-analyzer-nejevwpy2bcvrvuag9schr.streamlit.app/)**
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 RAGMind — Document Search Platform
+### 🔍 [RAGMind](https://ai-rag-platform-sigma.vercel.app/) — Document Search Platform
 > **Next.js 16 · FastAPI · Python · TypeScript · SQLite · Vector Search**
 
 Enterprise RAG platform supporting multi-format document indexing (`.pdf`, `.docx`, `.pptx`, `.md`). Interactive source-cited Q&A chat with exact page citations, AI flashcards, quizzes & summary export.
 
+🔗 **[Live Demo](https://ai-rag-platform-sigma.vercel.app/)**
+
 </td>
 <td width="50%" valign="top">
 
-### 📚 ShikshaSetu — AI EdTech Platform
+### 📚 [ShikshaSetu](https://shikshasetu-ten.vercel.app/) — AI EdTech Platform
 > **Next.js · TypeScript · Firebase · Gemini Pro / Vision API**
 
 AI-powered educational platform featuring automated study notes generation, PDF-to-quiz conversion & adaptive doubt solving engine.
+
+🔗 **[Live Demo](https://shikshasetu-ten.vercel.app/)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💳 SimplePay — Payment Dashboard
+### 💳 [SimplePay](https://simplepay-946w.onrender.com/) — Payment Dashboard
 > **React SPA · Flask REST API · MongoDB · Docker**
 
 Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask REST API backend, MongoDB storage & Docker containerization.
+
+🔗 **[Live Demo](https://simplepay-946w.onrender.com/)**
 
 </td>
 <td width="50%" valign="top">
