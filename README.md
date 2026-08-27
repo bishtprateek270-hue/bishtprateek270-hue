@@ -152,12 +152,12 @@ Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask
 ## 📈 GitHub Analytics & Heatmap
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishtprateek270-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=00d4ff&currStreakLabel=6c63ff" width="80%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bishtprateek270-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=00d4ff&currStreakLabel=6c63ff" width="80%" alt="GitHub Streak" />
 </p>
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishtprateek270-hue&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=00d4ff&point=ffffff&area=true&area_color=6c63ff" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.kavin.rocks/graph?username=bishtprateek270-hue&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=00d4ff&point=ffffff&area=true&area_color=6c63ff" width="95%" alt="Activity Graph" />
 </p>
 
 <!-- Snake Contribution Animation -->
