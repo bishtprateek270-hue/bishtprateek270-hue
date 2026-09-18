@@ -30,7 +30,7 @@
 
 🔬 Experienced in building **end-to-end AI applications**, designing **ML pipelines**, **LLM/RAG integrations**, and engineering robust, low-latency web platforms.
 
-🏆 Proven track record in **national hackathons** and shipping **5+ live production projects**.
+🏆 Proven track record in **national hackathons** and shipping **6+ live production projects**.
 
 - 🔭 Currently working on **AI-powered career tools & RAG platforms**
 - 🧠 Deepening expertise in **LLM Integration, Vector Search & System Architecture**
@@ -142,6 +142,14 @@ Full-stack containerized 3-tier payment dashboard with React SPA frontend, Flask
 
 </td>
 <td width="50%" valign="top">
+
+### 🌐 [3D-ULPIN MVP](https://3-d-ulpin-mvp.vercel.app/) — 3D Cadastral & Digital Twin Engine
+> **React · TypeScript · FastAPI · Deck.gl · Three.js · Gemini Vision**
+> _Role: Frontend & Backend Developer (Contributor)_
+
+AI-powered volumetric cadastral digital twin system modernizing 2D land records into multi-layer 3D parcel envelopes with AI architectural analysis, strata inspection & subsurface utility mapping.
+
+🔗 **[Live Demo](https://3-d-ulpin-mvp.vercel.app/)** &nbsp;|&nbsp; 🐙 **[GitHub Repo](https://github.com/harsh3011dev-oops/3D-ULPIN-MVP)**
 
 </td>
 </tr>
