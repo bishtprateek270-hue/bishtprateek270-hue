@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets (Snake & Activity Graph)
 
 on:
   schedule:
@@ -27,8 +27,15 @@ jobs:
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push Snake SVG
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: bishtprateek270-hue
+          output_path: assets/activity-graph.svg
+          options: theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=00d4ff&point=ffffff&area=true&area_color=6c63ff
+
+      - name: Commit and Push Assets
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update contribution snake animation"
+          commit_message: "auto: update contribution assets (snake & activity graph)"
           file_pattern: "assets/*.svg"

@@ -165,7 +165,7 @@ AI-powered volumetric cadastral digital twin system modernizing 2D land records 
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.kavin.rocks/graph?username=bishtprateek270-hue&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=00d4ff&point=ffffff&area=true&area_color=6c63ff" width="95%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/activity-graph.svg" width="95%" alt="Activity Graph" />
 </p>
 
 <!-- Snake Contribution Animation -->
