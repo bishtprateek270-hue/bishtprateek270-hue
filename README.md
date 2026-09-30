@@ -25,7 +25,7 @@
 ```yaml
 name: Prateek Singh Bisht
 location: Delhi, India
-education: 3rd Year B.Tech in AI & Machine Learning @ PIET (2023-2028)
+education: 3rd Year B.Tech in AI & Machine Learning @ PIET (2024 to 2028)
 focus: Full-Stack Engineering, Multimodal Vision, RAG Architectures, ML Systems
 status: Shipping production web platforms & open-source projects
 ```
@@ -173,7 +173,7 @@ Containerized 3-tier financial dashboard with interactive React SPA frontend, Fl
 ### 🎓 Education & Certifications
 
 **B.Tech in AI & Machine Learning**  
-*Panipat Institute of Engineering & Technology (PIET) · 2023 – 2028*
+*Panipat Institute of Engineering & Technology (PIET) · 2024 – 2028*
 - Sem 1: **7.95 SGPA** · Sem 2: **8.21 SGPA** · Sem 3: **7.30 SGPA**
 
 **C Programming Certification**  
