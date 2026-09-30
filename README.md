@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Engineering+AI+Systems+%26+Autonomous+Agents+%E2%9A%99%EF%B8%8F;Creator+of+Chitti+%E2%80%94+Multimodal+AI+Desktop+Companion+%F0%9F%A4%96;Building+Production+RAG+%26+Full-Stack+Platforms+%F0%9F%9A%80;B.Tech+AI+%26+ML+%40+PIET+%C2%B7+Panipat%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Engineering+AI+Systems+%26+Intelligent+Applications+%E2%9A%99%EF%B8%8F;Full-Stack+Engineer+%C2%B7+Python+%7C+Next.js+%7C+FastAPI+%F0%9F%92%BB;Building+Production+RAG+%26+Vision+Platforms+%F0%9F%9A%80;B.Tech+AI+%26+ML+%40+PIET+%C2%B7+Panipat%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,12 +26,12 @@
 name: Prateek Singh Bisht
 location: Panipat, Haryana, India
 education: 3rd Year B.Tech in AI & Machine Learning @ PIET (2023-2028)
-focus: Autonomous Agents, Multimodal Vision, Real-Time Audio, RAG Architectures
-status: Shipping production AI products & open-source tools
+focus: Full-Stack Engineering, Multimodal Vision, RAG Architectures, ML Systems
+status: Shipping production web platforms & open-source projects
 ```
 
-- 🤖 **Creator of Chitti**: An autonomous multimodal AI desktop companion robot that handles screen vision, real-time voice, email automation, WhatsApp workflows, and system-level task execution.
-- 🏗️ **Full-Stack Architecture**: Passionate about bridging bleeding-edge AI models (Gemini Vision, LLM Tool Calling, Vector Embeddings) with high-performance web frontends and asynchronous backends.
+- 🧠 **AI & Machine Learning**: Designing end-to-end vision pipelines, source-grounded RAG architectures, and intelligent web platforms.
+- 🏗️ **Full-Stack Architecture**: Passionate about bridging bleeding-edge AI models (Gemini Vision, LLM Tool Calling, Vector Search) with high-performance web frontends and asynchronous backends.
 - 🏆 **Hackathons & Competitions**: Active participant in national hackathons (Smart India Hackathon Finalist, COER Manthan, Hack KRMU).
 - ☕ **Work Philosophy**: Build resilient architectures, write clean maintainable code, and solve genuine user problems.
 
@@ -50,7 +50,7 @@ status: Shipping production AI products & open-source tools
 | Domain | Stack & Technologies |
 | :--- | :--- |
 | **Languages** | Python, C++, C, TypeScript, JavaScript, SQL |
-| **AI, Vision & Agents** | Gemini 2.5/Pro Multimodal Vision, LLM Tool Calling, Local Agents, Vector Embeddings, RAG Architectures, OpenCV, PyTorch |
+| **AI, Vision & Systems** | Gemini 2.5/Pro Multimodal Vision, LLM Integration, Vector Embeddings, RAG Architectures, OpenCV, PyTorch |
 | **Web & Frameworks** | Next.js 16, React 19, FastAPI, Flask, Streamlit, Three.js, Deck.gl, Tailwind CSS, Vite |
 | **Databases & DevOps** | PostgreSQL, SQLite, MongoDB, Firebase, Docker, Git, Vercel, Render |
 | **Engineering Practices** | System Architecture, RESTful APIs, Asynchronous I/O, Data Structures & Algorithms, Clean OOP |
@@ -63,16 +63,6 @@ status: Shipping production AI products & open-source tools
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Chitti](https://github.com/bishtprateek270-hue/chitti-) — Autonomous Multimodal AI Desktop Robot
-> **Python · PyAutoGUI · Gemini Vision · Edge TTS · Speech Recognition**
-
-An intelligent, interactive desktop AI companion running locally on Windows. Features multimodal screen vision, hotkey automation, self-healing memory, voice conversation, automated email drafting, and hands-free WhatsApp execution.
-
-🐙 **[GitHub Repo](https://github.com/bishtprateek270-hue/chitti-)**
-
-</td>
-<td width="50%" valign="top">
-
 ### ✨ [KarigarAI](https://karigar-ai-amber.vercel.app/) — Artisan AI Commerce Platform
 > **React 19 · FastAPI · Python · Gemini Vision · WhatsApp Commerce**
 
@@ -81,8 +71,6 @@ Full-stack marketplace empowering Indian artisans with vision AI catalog generat
 🔗 **[Live Demo](https://karigar-ai-amber.vercel.app/)** &nbsp;|&nbsp; 🐙 **[GitHub Repo](https://github.com/bishtprateek270-hue/karigarAI)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 [RAGMind](https://ai-rag-platform-sigma.vercel.app/) — Source-Grounded Document AI
@@ -93,6 +81,8 @@ Enterprise document intelligence platform indexing multi-format documents (`.pdf
 🔗 **[Live Demo](https://ai-rag-platform-sigma.vercel.app/)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 [3D-ULPIN MVP](https://3-d-ulpin-mvp.vercel.app/) — 3D Cadastral & Digital Twin Engine
@@ -103,8 +93,6 @@ Volumetric cadastral digital twin modernizing land records into multi-layer 3D p
 🔗 **[Live Demo](https://3-d-ulpin-mvp.vercel.app/)** &nbsp;|&nbsp; 🐙 **[GitHub Repo](https://github.com/harsh3011dev-oops/3D-ULPIN-MVP)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📄 [AI Resume Analyzer](https://resume-analyzer-nejevwpy2bcvrvuag9schr.streamlit.app/) & ATS Optimizer
@@ -115,6 +103,8 @@ Intelligent career tool parsing PDF resumes and calculating ATS match scores aga
 🔗 **[Live Demo](https://resume-analyzer-nejevwpy2bcvrvuag9schr.streamlit.app/)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 [ShikshaSetu](https://shikshasetu-ten.vercel.app/) — AI EdTech Platform
@@ -123,6 +113,16 @@ Intelligent career tool parsing PDF resumes and calculating ATS match scores aga
 Adaptive educational workspace featuring automated structured notes generation, PDF-to-quiz synthesis, and intelligent doubt resolution.
 
 🔗 **[Live Demo](https://shikshasetu-ten.vercel.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [SimplePay](https://simplepay-946w.onrender.com/) — 3-Tier Payment Dashboard
+> **React SPA · Flask REST API · MongoDB · Docker**
+
+Containerized 3-tier financial dashboard with interactive React SPA frontend, Flask REST API backend, MongoDB persistence, and Docker deployment.
+
+🔗 **[Live Demo](https://simplepay-946w.onrender.com/)**
 
 </td>
 </tr>
