@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Engineering+AI+Systems+%26+Intelligent+Applications+%E2%9A%99%EF%B8%8F;Full-Stack+Engineer+%C2%B7+Python+%7C+Next.js+%7C+FastAPI+%F0%9F%92%BB;Building+Production+RAG+%26+Vision+Platforms+%F0%9F%9A%80;B.Tech+AI+%26+ML+%40+PIET+%C2%B7+Panipat%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Engineering+AI+Systems+%26+Intelligent+Applications+%E2%9A%99%EF%B8%8F;Full-Stack+Engineer+%C2%B7+Python+%7C+Next.js+%7C+FastAPI+%F0%9F%92%BB;Building+Production+RAG+%26+Vision+Platforms+%F0%9F%9A%80;B.Tech+AI+%26+ML+%40+PIET+%C2%B7+Delhi%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ```yaml
 name: Prateek Singh Bisht
-location: Panipat, Haryana, India
+location: Delhi, India
 education: 3rd Year B.Tech in AI & Machine Learning @ PIET (2023-2028)
 focus: Full-Stack Engineering, Multimodal Vision, RAG Architectures, ML Systems
 status: Shipping production web platforms & open-source projects
