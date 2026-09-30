@@ -165,16 +165,16 @@ AI-powered volumetric cadastral digital twin system modernizing 2D land records 
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/activity-graph.svg" width="95%" alt="Activity Graph" />
+  <img src="./assets/activity-graph.svg" width="95%" alt="Activity Graph" />
 </p>
 
 <!-- Snake Contribution Animation -->
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/github-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/bishtprateek270-hue/bishtprateek270-hue/main/assets/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img alt="Snake Animation" src="./assets/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
