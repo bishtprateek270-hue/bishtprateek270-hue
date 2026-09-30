@@ -9,13 +9,19 @@
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishtprateek270-hue&label=Profile%20Views&color=10b981&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bishtprateek270-hue&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge&labelColor=161b22" alt="Profile Views" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/prateek-singh-bisht-4868742b9"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=10b981" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/prateek-singh-bisht-4868742b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <a href="https://bishtprateek270-hue.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=10b981" alt="Portfolio"/></a>
+  <a href="https://bishtprateek270-hue.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   &nbsp;
-  <a href="mailto:bishtprateek270@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=10b981" alt="Email"/></a>
+  <a href="mailto:bishtprateek270@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
