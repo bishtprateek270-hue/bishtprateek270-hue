@@ -34,10 +34,14 @@ jobs:
           output_path: assets/activity-graph.svg
           options: theme=github-compact&hide_border=true&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&area_color=10b98122
 
+      - name: Generate Streak Stats
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=bishtprateek270-hue&theme=dark&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981&currStreakNum=10b981&sideNums=f0f6fc&sideLabels=8b949e&dates=8b949e&timezone=Asia/Kolkata" -o assets/streak-stats.svg
+
       - name: Commit and Push Assets
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update contribution assets (snake & activity graph)"
+          commit_message: "auto: update contribution assets (snake, activity graph, streak)"
           file_pattern: "assets/*.svg"
 
       - name: Purge GitHub Camo Cache

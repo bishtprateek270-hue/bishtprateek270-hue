@@ -139,7 +139,7 @@ Containerized 3-tier financial dashboard with interactive React SPA frontend, Fl
 ## 📈 Activity & Contribution Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bishtprateek270-hue&theme=dark&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981&currStreakNum=10b981&sideNums=f0f6fc&sideLabels=8b949e&dates=8b949e" width="80%" alt="GitHub Streak" />
+  <img src="./assets/streak-stats.svg" width="80%" alt="GitHub Streak" />
 </p>
 
 <!-- Contribution Activity Graph -->
