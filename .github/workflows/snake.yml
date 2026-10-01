@@ -39,3 +39,6 @@ jobs:
         with:
           commit_message: "auto: update contribution assets (snake & activity graph)"
           file_pattern: "assets/*.svg"
+
+      - name: Purge GitHub Camo Cache
+        uses: kevincobain2000/action-camo-purge@v1
